@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../TFM-PRACTICA/terraform"
+		},
+		{
+			"name": "TERRAFORM_INFRAESTRUCTURA",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
